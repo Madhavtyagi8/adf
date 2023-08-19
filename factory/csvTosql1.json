@@ -1,0 +1,9 @@
+{
+	"name": "csvTosql1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "69c94410-714c-4c53-bea1-952d083eb377",
+		"tenantId": "76fe0b5b-6a0d-4213-a8cc-f0dbf064561f"
+	}
+}
